@@ -22,11 +22,11 @@ It is implemented using recursion with 2 cases, 2 and 1.
     "x" => "Input is not valid"
 
 ## sum_series test cases:
-   * 8 => 21
-   * 8,2,1 => 47
-   * 5,5,5 => 40
-   * 3,-2,-5 => -12
-   * "z",5,6 => "Input is not valid"
+   8 => 21
+   *8,2,1 => 47
+   *5,5,5 => 40
+   *3,-2,-5 => -12
+   *"z",5,6 => "Input is not valid"
 
 ## Lucas test cases:
     * 0 => 2
