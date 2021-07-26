@@ -1,5 +1,5 @@
 
-PR Link: https://github.com/Omardyab/math-series/pull/1
+PR Link: https://github.com/Omardyab/math-series/pull/2
 
 Three main cases: 
 Fibonacci: a sequence is generated based on the summation of two Fibonacci functions. 
