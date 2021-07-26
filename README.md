@@ -23,15 +23,15 @@ It is implemented using recursion with 2 cases, 2 and 1.
 
 ## sum_series test cases:
    8 => 21
-   *8,2,1 => 47
-   *5,5,5 => 40
-   *3,-2,-5 => -12
-   *"z",5,6 => "Input is not valid"
+   8,2,1 => 47
+   5,5,5 => 40
+   3,-2,-5 => -12
+   "z",5,6 => "Input is not valid"
 
 ## Lucas test cases:
-    * 0 => 2
-    * 1 => 1
-    * 10 => 123
-    * -2 => "Input is not valid"
-    * "Y" => "Input is not valid"
+    0 => 2
+    1 => 1
+    10 => 123
+    -2 => "Input is not valid"
+    "Y" => "Input is not valid"
 
