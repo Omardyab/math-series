@@ -2,14 +2,14 @@
 PR Link: https://github.com/Omardyab/math-series/pull/2
 
 # Three main cases: 
-*Fibonacci: a sequence is generated based on the summation of two Fibonacci functions. 
+* Fibonacci: a sequence is generated based on the summation of two Fibonacci functions. 
 It is implemented using recursion with 2 cases, 0 and 1.
 
-*sum_series: sequence is generated based on the summation of the first two functions, which are  0 and 1, this is by default.
+* sum_series: sequence is generated based on the summation of the first two functions, which are  0 and 1, this is by default.
   Lucas  if the two number => 2 and 1,
 otherwise, a sequence is generated based on the two numbers as recived.
 
-*Lucas:a sequence is generated based on the summation of the first two Lucas functions. 
+* Lucas:a sequence is generated based on the summation of the first two Lucas functions. 
 It is implemented using recursion with 2 cases, 2 and 1.
 
 #User Acceptance Tests: 
